@@ -15,22 +15,22 @@ A simple task management application built with HTML, CSS and JavaScript.
 
 ## What I Learned
 
-DOM manipulation
+- DOM manipulation
 
-Event handling in JavaScript
+- Event handling in JavaScript
 
-State management using local storage
+- State management using local storage
 
-Structuring a small front-end project
+- Structuring a small front-end project
 
-Basic UI/UX design principles
+- Basic UI/UX design principles
 
 ## Future Improvements
 
-Edit tasks
+- Edit tasks
 
-Due dates
+- Due dates
 
-Filtering (completed / active)
+- Filtering (completed / active)
 
-Backend integration (Node.js / API)
+- Backend integration (Node.js / API)
