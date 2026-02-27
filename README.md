@@ -1,5 +1,6 @@
 # todo-app
 A simple task management application built with HTML, CSS and JavaScript.
+
 ## Features
 - Add tasks
 - Delete tasks
@@ -9,8 +10,10 @@ A simple task management application built with HTML, CSS and JavaScript.
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-What I Learned
+- JavaScript (ES6)
+- Browser Local Storage API
+
+## What I Learned
 
 DOM manipulation
 
@@ -22,7 +25,7 @@ Structuring a small front-end project
 
 Basic UI/UX design principles
 
-Future Improvements
+## Future Improvements
 
 Edit tasks
 
